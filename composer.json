@@ -1,0 +1,40 @@
+{
+    "name": "piyushphpdots/craft-course-management",
+    "description": "Course Management with Booking System",
+    "type": "library",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "craft course management"
+    ],
+    "support": {
+        "docs": "https://github.com/piyushphpdots/craft-course-management/blob/master/README.md",
+        "issues": "https://github.com/piyushphpdots/craft-course-management/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PHPDots Technologies",
+            "homepage": "https://phpdots.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "craftcms/cms": "^3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "piyushphpdots\\craftcoursemanagement\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Craft Course Management",
+        "handle": "craft-course-management",
+        "developer": "PHPDots Technologies",
+        "developerUrl": "https://phpdots.com",
+        "changelogUrl": "https://raw.githubusercontent.com/piyushphpdots/craft-course-management/master/CHANGELOG.md",
+        "class": "piyushphpdots\\craftcoursemanagement\\CraftCourseManagement"
+    }
+}
