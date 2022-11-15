@@ -1,7 +1,7 @@
 {
     "name": "piyushphpdots/craft-course-management",
     "description": "Course Management with Booking System",
-    "type": "library",
+    "type": "craft-plugin",
     "keywords": [
         "craft",
         "cms",
