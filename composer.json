@@ -32,6 +32,8 @@
     "extra": {
         "name": "Craft Course Management",
         "handle": "craft-course-management",
+        "hasCpSettings": true,
+        "hasCpSection": true,
         "developer": "PHPDots Technologies",
         "developerUrl": "https://phpdots.com",
         "changelogUrl": "https://raw.githubusercontent.com/piyushphpdots/craft-course-management/master/CHANGELOG.md",
